@@ -1,4 +1,4 @@
-# Outreach Architect Pro — Backend 🎯
+﻿# Outreach Architect Pro — Backend 🎯
 
 **Hyper-Personalized Cold Outreach Agent powered by Kimi 2.5**
 
@@ -682,7 +682,7 @@ Built with:
 ## 📫 Contact
 
 **Daniel Lopez**  
-Email: [daniellopezorta39@gmail.com](mailto:daniellopezorta39@gmail.com)  
+Email: [taha.coder.work@gmail.com](mailto:taha.coder.work@gmail.com)  
 GitHub: [@daniellopez882](https://github.com/daniellopez882)
 
 ---

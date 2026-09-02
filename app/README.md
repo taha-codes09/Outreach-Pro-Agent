@@ -1,4 +1,4 @@
-# Outreach Architect Pro — Frontend 🎨
+﻿# Outreach Architect Pro — Frontend 🎨
 
 **Premium operator dashboard for high-precision cold outreach.**
 
@@ -32,7 +32,7 @@ Built with **React**, **TypeScript**, and **Vite**.
 ## 📫 Contact
 
 **Daniel Lopez**  
-Email: [daniellopezorta39@gmail.com](mailto:daniellopezorta39@gmail.com)  
+Email: [taha.coder.work@gmail.com](mailto:taha.coder.work@gmail.com)  
 GitHub: [@daniellopez882](https://github.com/daniellopez882)
 
 ---

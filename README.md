@@ -1,11 +1,11 @@
-# 📧 Outreach Architect Pro
+﻿# 📧 Outreach Architect Pro
 ### **OutreachPro** — Autonomous Precision-Targeted Sales Intelligence Engine
 
 <br/>
 
 [![React](https://img.shields.io/badge/Frontend-React%20%2F%20Vite-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![Python](https://img.shields.io/badge/Backend-Python%20%2F%20FastAPI-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![AI](https://img.shields.io/badge/Agentic%20AI-Kimi%202.5-blue?style=for-the-badge)](https://github.com/m-shamim09)
+[![AI](https://img.shields.io/badge/Agentic%20AI-Kimi%202.5-blue?style=for-the-badge)](https://github.com/taha-codes09)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 <br/>
